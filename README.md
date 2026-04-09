@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,html,css,tailwind,postgres,mysql,nodejs,express,nextjs,react,redux,vscode,notion,slack,figma,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,astro,html,css,tailwind,postgres,mysql,nodejs,express,nextjs,react,vscode,vitest,notion,slack&perline=14" />
   </a>
 </p>
 
@@ -52,15 +52,13 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
-</div>
-
 <!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/eduardolunar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/eduardolunar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://eduardolunar.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="website" height="50" width="50" /></a>
-<a href="mailto:eduardorafaellm@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="email" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/eduardo-lunar-6218a0230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joana-castello" height="30" width="40" /></a>
+<a href="https://instagram.com/eduardo_lunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joanaacastello" height="30" width="40" /></a>
 </p>
+</div>
+
 
 <!-- Football / Sports Tech Badge -->
 <div align="center">
@@ -75,9 +73,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edu2122&theme=dark&hide_border=false" /> 
 </td>
 
